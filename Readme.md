@@ -1,5 +1,5 @@
 # Mi nombre es Ángel Daniel Samperio Ga
-## Titulo 2
+## Soy estudiante de la carrera de ISC
 
 **negritas**
 
