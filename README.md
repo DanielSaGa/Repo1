@@ -10,4 +10,4 @@
 
 Se implementó una función que comparará de entrada el prefijo para verificar si es '52' 
 
-![Función implementada](./ss_bot.jpeg)
+![Función implementada](./ss_bot2.jpeg)
