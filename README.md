@@ -6,4 +6,4 @@
 
 ## Ejemplo de la utilización
 
-![Ejemplo de la utilización]()
+![Ejemplo de la utilización](./ss_bot.jpeg)
