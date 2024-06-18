@@ -7,3 +7,7 @@
 ## Ejemplo de la utilización
 
 ![Ejemplo de la utilización](./ss_bot.jpeg)
+
+Se implementó una función que comparará de entrada el prefijo para verificar si es '52' 
+
+![Función implementada](./ss_bot.jpeg)
